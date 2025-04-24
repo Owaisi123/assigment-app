@@ -95,7 +95,7 @@ class Household:
         return status
 
 def main():
-    st.title("Rozana: Manage Your Household 🏡")
+    st.title(" Manage Your Household 🏡")
     st.write("Track expenses, manage tasks, and plan groceries with smart suggestions!")
 
     st.sidebar.title("مینو")
